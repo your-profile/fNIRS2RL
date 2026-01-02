@@ -20,15 +20,9 @@ This dataset is intended for research on:
 - [Data Modalities](#data-modalities)
 - [Directory Structure](#directory-structure)
 - [Data Format and Schema](#data-format-and-schema)
-- [Timestamps and Synchronization](#timestamps-and-synchronization)
-- [MDP / Agent Variables](#mdp--agent-variables)
-- [fNIRS Signal Description](#fnirs-signal-description)
 - [Preprocessing](#preprocessing)
 - [Participant Logs](#participant-logs)
 - [Surveys and Questionnaires](#surveys)
-- [Example Usage](#example-usage)
-- [Dataset Splits](#dataset-splits)
-- [Known Limitations](#known-limitations)
 - [Ethics and Consent](#ethics-and-consent)
 - [Citation](#citation)
 - [License](#license)
@@ -137,34 +131,30 @@ Filtered data includes the preprocessed and separated fNIRS recordings during on
 Filtered data includes the filtered and separated fNIRS recordings alongside task variables and an optimality label during one session condition with a participant.
 **Filename**: PID_CONDITION_LabeledData.csv
 
-## Timestamps and Synchronization
-
-## MDP / Agent Variables
-
-## fNIRS Signal Description
-
 ## Preprocessing
+
+To be documented on 01/05/26.
 
 ## Participant Logs
 
-## Surveys and Questionnaires
+To be uploaded and documented on 01/05/26.
 
-## Example Usage
+## Surveys and Questionnaires 
 
-See how this dataset has been applied:
-
-**AAAI-26:** [NeuroLoop-Classification GitHub repository](https://github.com/your-profile/NeuroLoop-Classification/tree/aaai)  
-
-## Dataset Splits
-
-## Known Limitations
+To be uploaded and documented on 01/05/26.
 
 ## Ethics and Consent
 
+This study was approved by the Institutional Review Board (IRB) of Tufts University's Social, Behavioral, and Educational Research Office (SBER) under protocol IRB-00005080, and all participants provided informed consent.
+
 ## Citation 
 
-## License 
+Santaniello, J., Russell, M., Jiang, B., Sassaroli, D., Jacob, R., & Sinapov, J. (2026).  
+**Towards Reinforcement Learning from Neural Feedback: Mapping fNIRS Signals to Agent Performance.**  
+*To appear in AAAI 2026.*
+
 
 ## Contact
+Contact Julia Santaniello for inquiries: [julia.santaniello@tufts.edu](mailto:julia.santaniello@tufts.edu)
 
 
