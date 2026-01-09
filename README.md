@@ -1,6 +1,6 @@
 # fNIRS-2-RL Dataset
 
-A multimodal dataset containing synchronized **functional near-infrared spectroscopy (fNIRS)** signals and **agent task variables/MDP tuples** collected during human-agent interaction in various reinforcement learning environments.
+A dataset containing synchronized **functional near-infrared spectroscopy (fNIRS)** signals and **agent task variables/MDP tuples** collected during human-agent interaction in various reinforcement learning environments.
 
 This dataset is intended for research on:
 - Human-in-the-Loop Reinforcement Learning (HITL-RL)
