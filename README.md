@@ -135,15 +135,7 @@ Filtered data includes the filtered and separated fNIRS recordings alongside tas
 
 ## Preprocessing
 
-To be documented on 01/05/26.
-
-## Participant Logs
-
-To be uploaded and documented on 01/05/26.
-
-## Surveys and Questionnaires 
-
-To be uploaded and documented on 01/05/26.
+Bug fixes. Updates on 9/14/26.
 
 ## Ethics and Consent
 
