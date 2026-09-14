@@ -1,6 +1,6 @@
 # fNIRS-2-RL Dataset
 ## NOTE:
-**A preprocessing bug was identified and fixed. FilteredData was updated to include properly preprocessed data. LabeledData is not yet updated.**
+**A preprocessing bug was identified and fixed. FilteredData was updated to include properly preprocessed data. LabeledData is not yet updated. To see the original data used for the AAAI 2026 paper (citation below), see the aaai26 branch.**
 
 A dataset containing synchronized **functional near-infrared spectroscopy (fNIRS)** signals and **agent task variables/MDP tuples** collected during human-agent interaction in various reinforcement learning environments.
 
